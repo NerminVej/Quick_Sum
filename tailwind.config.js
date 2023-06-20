@@ -7,5 +7,6 @@ export default {
       inter: ["Inter", "sans-serif"],
     },
   },
+  variants: {},
   plugins: [],
 };

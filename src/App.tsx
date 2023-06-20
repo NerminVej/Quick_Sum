@@ -1,4 +1,3 @@
-import React from "react";
 import Hero from "./components/Hero";
 import Demo from "./components/Demo";
 
@@ -8,12 +7,12 @@ const App = () => {
   return (
     <main>
       <div className="main">
-        <div className="gradient">
-          <div className="app">
-            <Hero></Hero>
-            <Demo></Demo>
-          </div>
-        </div>
+        <div className="gradient" />
+      </div>
+
+      <div className="app">
+        <Hero />
+        <Demo />
       </div>
     </main>
   );
