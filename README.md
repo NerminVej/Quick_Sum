@@ -2,7 +2,7 @@
 
 ## Introduction
 
-
+![](QuickSumShowcase.png)
 
 QuickSum is an innovative blog summarization application that combines the power of React, API integration, and Tailwind CSS. This cutting-edge tool revolutionizes the way users generate concise and informative summaries of lengthy blog articles. By harnessing advanced natural language processing algorithms, QuickSum analyzes the content of blogs and distills the most vital information into easily digestible summaries.
 
