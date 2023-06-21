@@ -3,10 +3,11 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      satoshi: ["Satoshi", "sans-serif"],
-      inter: ["Inter", "sans-serif"],
+      fontFamily: {
+        satoshi:["Satoshi", "sans-serief"],
+        inter: ["Inter", "sans-serif"],
+      }
     },
   },
-  variants: {},
   plugins: [],
 };
